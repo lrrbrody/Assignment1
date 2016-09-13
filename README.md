@@ -1,4 +1,4 @@
-# Assignment 12
+# Assignment 1
 
 
 In this assignment you will be setting up the software and online tools that you will be using throughout this course. Below there are links and instructions to relevant sites. If you have any problems, you can tweet them using the hashtag #TCLA16. 
