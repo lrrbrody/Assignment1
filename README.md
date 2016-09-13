@@ -10,7 +10,7 @@ The first stop is to create the accounts we will be using:
 3. Next you will need to install the software we will be using (if you already have them installed make sure they are the latest versions). Links and instructions can be found below for:
    * R
    * RStudio
-   * Firefox (it is also possible to install Zotero desktop and not use Firesfox if you prefer *Can we use Chrome instead?*)
+   * Firefox (it is also possible to install Zotero desktop and not use Firesfox if you prefer)
    * Zotero plugin for Firefox
    * Git
 
